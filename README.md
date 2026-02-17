@@ -1,5 +1,7 @@
 ![Ryan Hidayat](img/github-header-banner.png)
 
+##### Saya seorang pelajar IT yang sedang mendalami pemrograman, pengembangan web, dan basis data. Saya memiliki semangat belajar tinggi dan terus berusaha meningkatkan kemampuan di bidang teknologi informasi
+
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.hi_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryan29778@gmail.com) 
